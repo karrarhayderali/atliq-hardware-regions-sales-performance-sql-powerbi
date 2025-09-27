@@ -45,7 +45,7 @@ Atliq Hardware Sales Performance/
 │
 ├── images/                             
 ├── dashboard/
-│   └── dashboard.pbix                  # Power BI dashboard file
+│   └── atliq_project_powerbi.pbix      # Power BI dashboard file
 │
 ├── Sales Director Report.pdf           # Final report
 ├── README.md                           # Project overview and instructions
