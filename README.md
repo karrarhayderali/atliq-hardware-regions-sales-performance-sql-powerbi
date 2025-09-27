@@ -137,7 +137,7 @@ where New_Table.row_num = 1
 
 # Dashboard
 
-![Overview](images/dashboard.PNG
+![Overview](images/dashboard.PNG)
 
 The **Power BI Dashboard** includes:
 1. **Overview:** that has an overall summary of the whole analysi
@@ -151,7 +151,7 @@ The **Power BI Dashboard** includes:
 
 1. **Clone the repository**  
 
-   git clone https://github.com/karrarhayderali/shopeasy-marketing-analysis-sql-python-powerbi.git
+   git clone https://github.com/karrarhayderali/atliq-hardware-regions-sales-performance-sql-powerbi.git
 
 2. **import database dump file**
    SQL `data/database dump/db_dump_version_2_with_cost_and_profit.sql`
