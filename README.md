@@ -137,7 +137,7 @@ where New_Table.row_num = 1
 
 # Dashboard
 
-![Overview](images/dashboard.PNG)
+![Overview](images/atliq_project_powerbi.pbix)
 
 The **Power BI Dashboard** includes:
 1. **Overview:** that has an overall summary of the whole analysi
