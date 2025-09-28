@@ -1,5 +1,5 @@
 # Atliq Hardware Regions Sales Performance 
-Interactive sales analysis and reporting project for Atliq Hardware across all regions using **SQL** and **Power BI**.
+Sales analysis and reporting project for Atliq Hardware Sales Director across all regions using **SQL** and **Power BI**.
 ## Table of Contents
 - [Overview](#overview)
 - [Business Problem](#business-problem)
